@@ -1,4 +1,15 @@
-<div style="display: flex;">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div style="display: flex;">
         <div style="width: 55%;">
             <h1 align="center">Hi 👋, I'm Shafayet Tuhin</h1>
             <h3 align="center">Full-Stack Developer | Competative Programmer</h3>
@@ -85,3 +96,8 @@
                 alt="Profile Image" />
         </div>
     </div>
+
+
+</body>
+
+</html>
