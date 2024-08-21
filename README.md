@@ -3,9 +3,9 @@
 ## Full-Stack Developer | Competitive Programmer
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Shafayet-tuhin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shafayet-tuhin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Shafayet-tuhin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800&token=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" height="150" alt="stats graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shafayet-tuhin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" height="150" alt="languages graph"  />
+
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
