@@ -53,7 +53,7 @@
   <a href="https://jwt.io/">
     <img src="https://img.shields.io/badge/-JWT-yellow?style=for-the-badge&logo=json-web-tokens" alt="JWT" style="border-radius: 10%;" />
   </a>
-  <a href="https://aceternityui.com/">
+  <a href="https://ui.aceternity.com/">
     <img src="https://img.shields.io/badge/-Aceternity_UI-darkblue?style=for-the-badge&logo=aceternity" alt="Aceternity UI" style="border-radius: 10%;" />
   </a>
   <a href="https://reactjs.org/">
